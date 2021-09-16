@@ -1,9 +1,11 @@
-Master Thesis
 
 Natural Behaviour Predictor
 
-This repository represents the code support of my Master Thesis.
+
 The developed software is composed of three neural network models trained on a custom pedestrian trajectory prediction dataset created with Carla Simulator.
+
+Check out our presentation movies and slides at: https://fmiunibuc-my.sharepoint.com/:u:/g/personal/ciprian_paduraru_fmi_unibuc_ro/EWnNIsBHtWNBuW8UUyvLWgwBLl26q8kGebvWW_baxbwlyQ?e=2F2DJw
+
 
 Techniques employed
 
