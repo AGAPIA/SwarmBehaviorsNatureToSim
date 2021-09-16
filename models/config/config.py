@@ -1,0 +1,1 @@
+DATASET_FOLDER = '/home/eduard/Private/carla/PythonAPI/Dizertatie/models/datasets/zara1/train'

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sgan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sgan-context-awareness" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sgan-modified" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sgan-retrained" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sociallstm" vcs="Git" />
+  </component>
+</project>
